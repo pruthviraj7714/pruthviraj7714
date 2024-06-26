@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pruthviraj7714
 - 👀 I’m interested in making websites
 - 🌱 I’m currently learning Full stack development + Devops
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 - 😄 Pronouns: 
 - ⚡ Fun fact: I like to play video games
