@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js & devops**
 
-- 💬 Ask me about **DSA, React, Next.js**
+- 💬 Ask me about **MERN, React, Next.js, DSA**
 
 - ⚡ Fun fact **I like to Play Video Games**
 
