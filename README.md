@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **MERN, React, Next.js, DSA**
 
-- ⚡ Fun fact **I like to Play Video Games**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
