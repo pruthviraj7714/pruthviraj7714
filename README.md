@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js & devops**
+- 🌱 I’m currently learning **Next.js, Web3, devops**
 
 - 💬 Ask me about **MERN, React, Next.js, DSA**
 
