@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Pruthviraj, a full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">Hey there! I'm Pruthviraj, a passionate full-stack freelance developer 👨‍💻 crafting scalable web applications remotely 🚀</div>  
   
 
 - 🌱 I’m currently learning Web3 and DevOps  
